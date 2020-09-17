@@ -6,3 +6,7 @@
 .settings/
 /build/
 .classpath
+gradlew
+gradlew.bat
+.idea/
+gradle/
